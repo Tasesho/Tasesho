@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**Tasesho/Tasesho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm Tase 👋
+
+**Computer Engineering & Telecom student**  
+Programming geek always up for a coding challenge.  
+
+---
+### About me
+- 🌱 I’m currently learning C++ and Python.
+- 🖥️ League of Legends player.
+- 🗡️ OTP Yi & Kayn.
+- 🌸 Huge anime fan.
+- 🩸 Kaneki is my favorite character.
+- ☕ addict to Caffeine.
+- 💚 Trying to be a better person.
+
+---
+
+### Skills & Interests
+
+- Programming / Software Development  
+- Networking & Telecommunications  
+- Game strategy & teamwork
+- Anime culture and storytelling
+- Resilient and constant
+---
+
+### Mis Redes!
+
+- [Twitter](https://x.com/Tasesho_)
+---
+### Contacto
+
+[Gmail] benjam.vsqz@gmail.com
+---
