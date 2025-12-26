@@ -8,7 +8,7 @@ Programming geek always up for a coding challenge.
 
 ---
 ### About me
-- 🌱 I’m currently learning C++ and Python.
+- 🌱 I’m currently learning: RUST
 - 🖥️ League of Legends player.
 - 🗡️ OTP Yi & Kayn.
 - 🌸 Huge anime fan.
