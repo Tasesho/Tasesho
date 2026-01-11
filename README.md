@@ -1,27 +1,23 @@
 
 
 
-# Hi there, I'm Tase 👋
+# Hi there, I'm Tase (˶˃𐃷˂˶)
 
-**Computer Engineering & Telecom student**  
-Programming geek always up for a coding challenge.  
+**Computer Engineering student**  
+Coding is like tiramisu
 
 ---
 ### About me
-- 🌱 I’m currently learning: RUST
-- 🖥️ League of Legends player.
-- 🗡️ OTP Yi & Kayn.
-- 🌸 Huge anime fan.
-- 🩸 Kaneki is my favorite character.
-- ☕ addict to Caffeine.
-- 💚 Trying to be a better person.
+-  I’m currently learning: Rust
+-  Huge anime fan. ⭑.ᐟ
+-  Kaneki is my favorite character. ⭑.ᐟ
+-  Trying to be a better person. ⭑.ᐟ
 
 ---
 
 ### Skills & Interests
 
 - Programming / Software Development  
-- Networking & Telecommunications  
 - Game strategy & teamwork
 - Anime culture and storytelling
 - Resilient and constant
